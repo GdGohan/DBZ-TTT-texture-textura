@@ -1,42 +1,15 @@
 
-{ "title":"GdGohan Texture/Textura Pack", "titlecolor":"#e98100", "Bannerurl":"http://download1500.mediafire.com/iqml647eyyhg/6q8kzx2rwzxdk65/93+Sem+T%C3%ADtulo_20200825153333.png", "backgroundcolor":"#000000", "listbackgroundcolor":"#80f0a040", 
-"listpatchrepositori": [ { "namepatch": "texture pack", "urlpatch": "http://download1337.mediafire.com/pwd6x1d9j03g/ulyuhzyjidovzq6/ULUS10537.zip", "urlicono": "http://download1481.mediafire.com/vkbl898544yg/t2tt974ft9ardxi/gohan-1500057808905_v2_450x337.jpg", "description": "" }, {
+{
+"title":"GdGohan", 
+"titlecolor":"#e98100",
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"Bannerurl":"http://download1500.mediafire.com/i4zqbum5a3pg/6q8kzx2rwzxdk65/93+Sem+T%C3%ADtulo_20200825153333.png",
+"backgroundcolor":"#000000", 
+"listbackgroundcolor":"#80f0a040",
+"listpatchrepositori": [
+ {
+"namepatch": "texture pack",
+ "urlpatch": "http://download1337.mediafire.com/ouzhhgak60jg/4siyew5bq9598bj/texture.patch", 
+"urlicono": "http://download1481.mediafire.com/n3uqldfhew1g/t2tt974ft9ardxi/gohan-1500057808905_v2_450x337.jpg", 
+"description": "aperte em instalar,depois de instalar copie o texto que aparecer em cima e cole no seu navegador,depois de baixar no seu navegador renomie o arquivo de .patch para .zip e extraia na pasta PSP/TEXTURE ou se quiser só as imagens para fazer seu mod aperte em extrair e mova para pasta que desejar" },
+ {
